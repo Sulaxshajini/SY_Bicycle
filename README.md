@@ -77,7 +77,7 @@ Select an option:
 
 Enter the number corresponding to the action you want to perform and follow the on-screen prompts.
 
-## Sample Workflow
+## Workflow
 
 1. Select **Add Bicycle** to register new stock with model, brand, price, and quantity.
 2. Select **Record Sale** to sell a bicycle — stock quantity is reduced automatically.
